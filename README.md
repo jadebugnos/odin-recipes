@@ -1,2 +1,2 @@
 # odin-recipes
-Hello I am Jade and I am doing the first project for the odin project foundation course. in this project I will be making a basic recipe website. by the end hopefully I will have demonstrated the things I have learned so far in TOP especially HTML and git.
+Hello I am Jade and I am doing the first project for the odin project foundation course. in this project I will be making a basic recipe website. by the end hopefully I will have demonstrated the things I have learned so far in TOP especially HTML and git. thank you
